@@ -1,8 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-#include <time.h>
-#include <windows.h>
 
 typedef struct elementos {
     char nome[50];
